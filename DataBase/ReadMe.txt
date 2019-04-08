@@ -1,0 +1,1 @@
+使用命令行 source path_to_sample.sql将数据库文件导入即可。也可用MySQL workbench 倒入script的功能。
